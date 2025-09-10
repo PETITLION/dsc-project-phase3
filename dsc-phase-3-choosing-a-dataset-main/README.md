@@ -1,4 +1,4 @@
-
+jkk
 # Phase 3 Project - Choosing a Dataset
 
 You have the option to either choose a dataset from a curated list or propose your own dataset not on the list. The goal is to choose a dataset appropriate to the type of business problem and/or classification methods that most interests you. **It is up to you to define a stakeholder and business problem appropriate to the dataset you choose.**
